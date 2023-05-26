@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MEANSTACKF/static/css/main.69cc0be7.css",
-    "main.js": "/MEANSTACKF/static/js/main.73cbb2d1.js",
-    "static/media/cat-2.jpg": "/MEANSTACKF/static/media/cat-2.c783bc351239091a6ba7.jpg",
-    "static/media/cat-3.jpg": "/MEANSTACKF/static/media/cat-3.a8441fd9d3326934ed92.jpg",
-    "static/media/cat-1.jpg": "/MEANSTACKF/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
-    "static/media/cat-4.jpg": "/MEANSTACKF/static/media/cat-4.427b423a2e66b77f3ba8.jpg",
-    "static/media/banner-img.png": "/MEANSTACKF/static/media/banner-img.0412d66280a0273effa2.png",
-    "static/media/newsletter-bg.jpeg": "/MEANSTACKF/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
-    "static/media/earbuds-prod-1.webp": "/MEANSTACKF/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
-    "index.html": "/MEANSTACKF/index.html",
-    "main.69cc0be7.css.map": "/MEANSTACKF/static/css/main.69cc0be7.css.map",
-    "main.73cbb2d1.js.map": "/MEANSTACKF/static/js/main.73cbb2d1.js.map"
+    "main.css": "/react_master/static/css/main.f4687569.css",
+    "main.js": "/react_master/static/js/main.cbf86ee6.js",
+    "static/media/cat-2.jpg": "/react_master/static/media/cat-2.c783bc351239091a6ba7.jpg",
+    "static/media/cat-3.jpg": "/react_master/static/media/cat-3.a8441fd9d3326934ed92.jpg",
+    "static/media/cat-1.jpg": "/react_master/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "static/media/cat-4.jpg": "/react_master/static/media/cat-4.427b423a2e66b77f3ba8.jpg",
+    "static/media/banner-img.png": "/react_master/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/react_master/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/earbuds-prod-1.webp": "/react_master/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "index.html": "/react_master/index.html",
+    "main.f4687569.css.map": "/react_master/static/css/main.f4687569.css.map",
+    "main.cbf86ee6.js.map": "/react_master/static/js/main.cbf86ee6.js.map"
   },
   "entrypoints": [
-    "static/css/main.69cc0be7.css",
-    "static/js/main.73cbb2d1.js"
+    "static/css/main.f4687569.css",
+    "static/js/main.cbf86ee6.js"
   ]
 }
