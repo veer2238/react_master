@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/live_shopping/static/css/main.169c20bc.css",
+    "main.js": "/live_shopping/static/js/main.a0e5a14f.js",
+    "static/media/cat-2.jpg": "/live_shopping/static/media/cat-2.c783bc351239091a6ba7.jpg",
+    "static/media/cat-3.jpg": "/live_shopping/static/media/cat-3.a8441fd9d3326934ed92.jpg",
+    "static/media/cat-1.jpg": "/live_shopping/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "static/media/red-check-shirt.png": "/live_shopping/static/media/red-check-shirt.7568d192daa7bac6b127.png",
+    "static/media/cat-4.jpg": "/live_shopping/static/media/cat-4.427b423a2e66b77f3ba8.jpg",
+    "static/media/top-trank.png": "/live_shopping/static/media/top-trank.6bfba2d71b6a7dabbfb3.png",
+    "static/media/v-neck-tshirt.png": "/live_shopping/static/media/v-neck-tshirt.97f59c215391e2e7d680.png",
+    "static/media/banner-img.png": "/live_shopping/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/black-white-tshirt.png": "/live_shopping/static/media/black-white-tshirt.8a014029f99e5b13e5e8.png",
+    "static/media/full-sleaves-tshirt.png": "/live_shopping/static/media/full-sleaves-tshirt.39aa041c5de2f9a0c315.png",
+    "static/media/collor-tshirt.png": "/live_shopping/static/media/collor-tshirt.b4e9190f94d86366fe25.png",
+    "static/media/hoddies.png": "/live_shopping/static/media/hoddies.904df5a3e5e2ca1ff181.png",
+    "static/media/pent.png": "/live_shopping/static/media/pent.54374cd5c9fa78287a7c.png",
+    "static/media/track-suits.png": "/live_shopping/static/media/track-suits.756d326ef77d114319cc.png",
+    "static/media/track-pents.png": "/live_shopping/static/media/track-pents.1b3dba7ff98b562f6d27.png",
+    "static/media/newsletter-bg.jpeg": "/live_shopping/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/earbuds-prod-1.webp": "/live_shopping/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "static/media/v-neck-t-shirt.png": "/live_shopping/static/media/v-neck-t-shirt.277a6079e9af07a99b05.png",
+    "static/media/revicons.eot": "/live_shopping/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/live_shopping/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/live_shopping/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/live_shopping/index.html",
+    "main.169c20bc.css.map": "/live_shopping/static/css/main.169c20bc.css.map",
+    "main.a0e5a14f.js.map": "/live_shopping/static/js/main.a0e5a14f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.169c20bc.css",
+    "static/js/main.a0e5a14f.js"
+  ]
+}
