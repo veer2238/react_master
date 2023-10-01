@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_master/static/css/main.6c6d4518.css",
-    "main.js": "/react_master/static/js/main.32c0c431.js",
+    "main.css": "/react_master/static/css/main.29b746a1.css",
+    "main.js": "/react_master/static/js/main.508c350a.js",
     "static/media/banner3.png": "/react_master/static/media/banner3.7418fc21c11e094f384a.png",
     "static/media/prod4.png": "/react_master/static/media/prod4.21d00ef9c1aa695ac8e8.png",
     "static/media/big.png": "/react_master/static/media/big.659f186c3cbd85655d1c.png",
@@ -37,11 +37,11 @@
     "static/media/revicons.ttf": "/react_master/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react_master/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react_master/index.html",
-    "main.6c6d4518.css.map": "/react_master/static/css/main.6c6d4518.css.map",
-    "main.32c0c431.js.map": "/react_master/static/js/main.32c0c431.js.map"
+    "main.29b746a1.css.map": "/react_master/static/css/main.29b746a1.css.map",
+    "main.508c350a.js.map": "/react_master/static/js/main.508c350a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c6d4518.css",
-    "static/js/main.32c0c431.js"
+    "static/css/main.29b746a1.css",
+    "static/js/main.508c350a.js"
   ]
 }
