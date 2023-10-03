@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/veerconsultancy/static/css/main.9676444a.css",
-    "main.js": "/veerconsultancy/static/js/main.8e2f3e44.js",
+    "main.js": "/veerconsultancy/static/js/main.c86dcf22.js",
     "static/media/revicons.eot": "/veerconsultancy/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/veerconsultancy/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/veerconsultancy/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/veerconsultancy/index.html",
     "main.9676444a.css.map": "/veerconsultancy/static/css/main.9676444a.css.map",
-    "main.8e2f3e44.js.map": "/veerconsultancy/static/js/main.8e2f3e44.js.map"
+    "main.c86dcf22.js.map": "/veerconsultancy/static/js/main.c86dcf22.js.map"
   },
   "entrypoints": [
     "static/css/main.9676444a.css",
-    "static/js/main.8e2f3e44.js"
+    "static/js/main.c86dcf22.js"
   ]
 }
