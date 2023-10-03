@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/veerconsultancy/static/css/main.9676444a.css",
-    "main.js": "/veerconsultancy/static/js/main.c86dcf22.js",
-    "static/media/revicons.eot": "/veerconsultancy/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/veerconsultancy/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/veerconsultancy/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/veerconsultancy/index.html",
-    "main.9676444a.css.map": "/veerconsultancy/static/css/main.9676444a.css.map",
-    "main.c86dcf22.js.map": "/veerconsultancy/static/js/main.c86dcf22.js.map"
+    "main.css": "/react_master/static/css/main.3bae1e11.css",
+    "main.js": "/react_master/static/js/main.f0194e12.js",
+    "static/media/revicons.eot": "/react_master/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react_master/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react_master/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/react_master/index.html",
+    "main.3bae1e11.css.map": "/react_master/static/css/main.3bae1e11.css.map",
+    "main.f0194e12.js.map": "/react_master/static/js/main.f0194e12.js.map"
   },
   "entrypoints": [
-    "static/css/main.9676444a.css",
-    "static/js/main.c86dcf22.js"
+    "static/css/main.3bae1e11.css",
+    "static/js/main.f0194e12.js"
   ]
 }
