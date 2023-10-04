@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_master/static/css/main.3bae1e11.css",
-    "main.js": "/react_master/static/js/main.f0194e12.js",
+    "main.css": "/react_master/static/css/main.8204e06b.css",
+    "main.js": "/react_master/static/js/main.110802c6.js",
     "static/media/revicons.eot": "/react_master/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/react_master/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react_master/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react_master/index.html",
-    "main.3bae1e11.css.map": "/react_master/static/css/main.3bae1e11.css.map",
-    "main.f0194e12.js.map": "/react_master/static/js/main.f0194e12.js.map"
+    "main.8204e06b.css.map": "/react_master/static/css/main.8204e06b.css.map",
+    "main.110802c6.js.map": "/react_master/static/js/main.110802c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bae1e11.css",
-    "static/js/main.f0194e12.js"
+    "static/css/main.8204e06b.css",
+    "static/js/main.110802c6.js"
   ]
 }
