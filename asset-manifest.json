@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_master/static/css/main.3979e801.css",
-    "main.js": "/react_master/static/js/main.181eb55d.js",
+    "main.css": "/react_master/static/css/main.61f28bb6.css",
+    "main.js": "/react_master/static/js/main.c35e1b38.js",
     "static/media/banner3.png": "/react_master/static/media/banner3.7418fc21c11e094f384a.png",
     "static/media/prod4.png": "/react_master/static/media/prod4.21d00ef9c1aa695ac8e8.png",
     "static/media/big.png": "/react_master/static/media/big.659f186c3cbd85655d1c.png",
@@ -31,6 +31,7 @@
     "static/media/track2-1.png": "/react_master/static/media/track2-1.3778bb22cd926ccfc02f.png",
     "static/media/track3.png": "/react_master/static/media/track3.1a0e29bf9e268c7f25f5.png",
     "static/media/track5.png": "/react_master/static/media/track5.23a48b09012aa8a87f11.png",
+    "static/media/shoes1.webp": "/react_master/static/media/shoes1.ec2d000dc8c5bffd7890.webp",
     "static/media/track2-2.png": "/react_master/static/media/track2-2.05958eb810d31e16c60e.png",
     "static/media/track1-1.png": "/react_master/static/media/track1-1.308a2daad72bc0ce7090.png",
     "static/media/banner1.png": "/react_master/static/media/banner1.9bb0a3c033c86c34f426.png",
@@ -54,11 +55,11 @@
     "static/media/revicons.ttf": "/react_master/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react_master/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react_master/index.html",
-    "main.3979e801.css.map": "/react_master/static/css/main.3979e801.css.map",
-    "main.181eb55d.js.map": "/react_master/static/js/main.181eb55d.js.map"
+    "main.61f28bb6.css.map": "/react_master/static/css/main.61f28bb6.css.map",
+    "main.c35e1b38.js.map": "/react_master/static/js/main.c35e1b38.js.map"
   },
   "entrypoints": [
-    "static/css/main.3979e801.css",
-    "static/js/main.181eb55d.js"
+    "static/css/main.61f28bb6.css",
+    "static/js/main.c35e1b38.js"
   ]
 }
